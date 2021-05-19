@@ -10,7 +10,7 @@ import com.fasterxml.jackson.annotation.JsonFilter;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 
-//@JsonFilter("monFiltreDynamique")
+//@JsonFilter("monFiltreDynamique")  
 @Entity
 public class Product {
 	
